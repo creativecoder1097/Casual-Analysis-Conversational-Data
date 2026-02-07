@@ -1,0 +1,8 @@
+pandas
+json
+csv
+os
+platform
+subprocess
+re
+sys

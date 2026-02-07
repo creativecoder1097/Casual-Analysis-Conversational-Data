@@ -1,0 +1,4 @@
+Query Id,Query,Query Category,System_Output,Remarks
+Q1,What happened in call 7034-5430-2980-5483?,Healthcare,I have loaded the analysis for 7034-5430-2980-5483. You can ask about the 'why' (causal factor) or 'who' (entities involved).,Deterministic context retention applied
+Q2,Why did that happen?,Healthcare,[Evidence ID: 7034-5430-2980-5483] The outcome was driven by: Customer Jerry Chavez escalated to supervisor after experiencing multiple failed mobile app login and poor service recovery attempts over three weeks.,Deterministic context retention applied
+Q3,Who was the customer involved there?,Healthcare,The customer in this interaction is Jerry Chavez.,Deterministic context retention applied
